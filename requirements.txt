@@ -1,0 +1,9 @@
+@'
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+matplotlib
+openpyxl
+'@ | Set-Content -Encoding utf8 requirements.txt
