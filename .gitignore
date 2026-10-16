@@ -10,9 +10,4 @@ __pycache__/
 .env
 *.log
 
-# Original survey responses and individual-level data
-Influencer Authenticity vs. AI-Generated Content Main Study (Responses).xlsx
-analysis_outputs/main_study_numeric.xlsx
-analysis_outputs/smartpls_import.csv
-analysis_outputs/stage2_statistical_results.xlsx
 
